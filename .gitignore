@@ -1,0 +1,14 @@
+Debug/
+Release/
+.settings/
+*.launch
+*.log
+*.tmp
+
+# build artifacts
+*.elf
+*.map
+*.list
+*.o
+*.d
+*.su
